@@ -1,0 +1,135 @@
+body{
+    color:black;
+    font-family: Poppins;
+}
+.profile-acor{
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25) ;
+
+}
+.card-registrasi{
+    padding-top: 70px;
+    border: none;
+    background-color: #f8f9fc;
+}
+.card-daftar{
+    border-radius: 5px;
+    height: 50px;
+}
+.garis_verikal{
+    border-left: 10px black solid;
+    height: 40px;
+    width: 0px;
+    border-radius: 10px;
+}
+.horizon{
+    border-color: 10px black solid;
+}
+.btn-main{
+    background: #647BB1;
+    /* border: 1px solid #CCB2E0; */
+    /* box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25); */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    color: #ffffff;
+}
+.btn-main:hover{
+    transform: scale(1.05);
+    background: #647BB1;
+    color: #ffffff;
+}
+.btn-h:hover{
+    color: #000000;
+}
+.card-welcomep{
+    height: 226px;
+    background: #CCB2E0;
+    border-radius: 12px;
+}
+.card-ap{
+    background: #647BB1;
+    color: #ffffff;
+    transition: transform .5s;
+}
+
+.card-ip{
+    background: #C8C8C8;
+    color: #000000;
+    transition: transform .5s;
+}
+.card-pv{
+    background: #647BB1;
+    color: #ffffff;
+    width: 50%;
+    transition: transform .3s;
+}
+.card-pr{
+    background: #647BB1;
+    color: #ffffff;
+    width: 50%;
+    transition: transform .3s;
+}
+.card-ip:hover, .card-ap:hover, .card-pr:hover, .card-pv:hover{
+    transform: scale(1.05);
+    color: #ffffff;
+    text-decoration: none;
+}
+.card-ip:hover, .card-pr:hover, .card-pv:hover{
+    transform: scale(1.05);
+    color: #000000;
+    text-decoration: none;
+}
+
+.card-ap:hover, .card-pr:hover, .card-pv:hover{
+    border: none;
+    box-shadow: 0px 0px 10px #647BB1;
+}
+
+.card-ip:hover {
+    border: none;
+    box-shadow: 0px 0px 10px #CCB2E0;
+}
+
+.card-form{
+    width: 70%;
+    /* border-color: #CCB2E0; */
+    border-radius: 10px;
+box-shadow: 0px 0px 10px #647BB1;
+}
+.card-form2{
+    width: 50%;
+    border-color: #CCB2E0;
+    border-radius: 10px;
+}
+.card-nav{
+    height: 50%;
+    border-color: #647BB1;
+    border-radius: 0;
+    border-width: 3px;
+}
+.nav-ortu{
+    background-color: #647BB1;
+}
+.greeting{
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px 0px #647BB1;
+}
+.choice1{
+    text-align: start;
+}
+.choice1 :hover {
+    text-decoration: none;
+}
+
+.txt-brand{
+    text-align: center;
+    font-weight:600;
+    color: #647BB1;
+    text-shadow: 1px 1px 1px #CCB2E0;
+}
+
+.log-page{
+    box-shadow: 0px 0px 5px lightslategray;
+}
+
+
